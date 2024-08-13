@@ -7,13 +7,13 @@
 自行车我停在D21和D20之间的车棚下面了， 是这辆蓝色的Giant ATX810，如图：
 
 <div align="center">
-    <img src="./pic/bike_loc1.jpg" alt="bike1" width="330"/>
+    <img src="../pic/bike_loc1.jpg" alt="bike1" width="330"/>
 </div>
 
 <br><br>
 
 <div align="center">
-    <img src="./pic/bike_loc2.jpg" alt="bike2" width="330"/>
+    <img src="../pic/bike_loc2.jpg" alt="bike2" width="330"/>
 </div>
 
 
@@ -27,13 +27,13 @@
 - Email: [lingxiaoyoung@gmail.com](lingxiaoyoung@gmail.com), [yanglx@umich.edu](yanglx@umich.edu)
 - Facebook: [www.facebook.com/sheepinclouds](https://www.facebook.com/sheepinclouds)
 - Instagram:
-    <img src=./pic/ins.jpg width="300" align=center>
+    <img src=../pic/ins.jpg width="300" align=center>
 - WhatsApp:
-    <img src=./pic/whatsapp.jpg align=center width="300">
+    <img src=../pic/whatsapp.jpg align=center width="300">
 
 这是我的下学期的class schedule,可能上课的时候回消息会慢一些。 周末的话活跃时段一般在11：30 am - 1:00 am 之间。安娜堡的时间是EST&EDT，夏季用夏令时和北京时间相差12小时，冬季相差13小时。
 
-<img src=./pic/schedule.png align=center />
+<img src=../pic/schedule.png align=center />
 
 ## 3. About Keeping in Touch
 
@@ -41,7 +41,7 @@
 
 呃所以我想了个方案，大概就是我会开个以`#Trivia`为标签的pyq，更点安村的日常啊啥的，不出意外应该就仅你可见。有时候可能也会让我爸妈可见（因为他们得定期确认我还没似或者被黑哥噶腰子啥的）。更新频率我尽量至少两天一更。这样的话至少有点接触，也不会占用你时间啥的。大概长这样：
 
-<img src=./pic/trivia.png align=center />
+<img src=../pic/trivia.png align=center />
 
 另外当然也欢迎没事的时候找我聊聊天之类的，丢个提问箱，看到我会尽量回：[askbox](https://www.askbox.ink/box/uu/45GZXZ21)
 
